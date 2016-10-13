@@ -1,2 +1,6 @@
 a.txt
+<<<<<<< HEAD
 edit from other branch
+=======
+a.txt add something not in other
+>>>>>>> master

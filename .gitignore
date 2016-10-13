@@ -1,0 +1,6 @@
+!.gitignore
+*.iml
+classes
+*.log
+out
+!fmMob.iml
